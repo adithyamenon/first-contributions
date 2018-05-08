@@ -1,5 +1,4 @@
-﻿- [Adithya Menon](https://github.com/adithyamenon)
-- [Caleb Powell](https://github.com/Caleb-Powell)
+﻿- [Caleb Powell](https://github.com/Caleb-Powell)
 - [Jeffrey Fabian](https://github.com/jf2978)
 - [acheeseye](https://github.com/acheeseye)
 - [Maximilian Sarter](https://github.com/rqd3)
